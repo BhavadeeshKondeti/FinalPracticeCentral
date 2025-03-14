@@ -1,7 +1,7 @@
 This is final update boss1
-<<<<<<< Updated upstream
+
 iam good from central
-=======
+
 
 kaisa hai bhai
->>>>>>> Stashed changes
+
